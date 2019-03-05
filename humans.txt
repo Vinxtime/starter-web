@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Vincent Saint aubert vincent@myicn.fr
 
 # THANKS
 
