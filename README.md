@@ -8,6 +8,8 @@ Here is an introduction
 
 ## Purpose
 
+Here is a purpose
+
 ## Continue
 
 ## Deployment
